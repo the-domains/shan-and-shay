@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Shan&Shay]]></title>
-        <description><![CDATA[Shan&Shay]]></description>
+        <title><![CDATA[Shan & Shay]]></title>
+        <description><![CDATA[Shan & Shay]]></description>
         <link>https://thegrid.ai/shan-and-shay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 05:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 06:08:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shan-and-shay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/shan-and-shay/5ecb679b-c0a7-4d37-9794-88ce3a4a4007/index.html</link>
             <guid isPermaLink="false">5ecb679b-c0a7-4d37-9794-88ce3a4a4007</guid>
             <pubDate>Fri, 08 Jan 2016 05:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38b4826-576d-4f4b-89f6-4c7876e16e10.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/shan-and-shay/b5b30a57-84de-4b1f-a1db-2e4229f5fb09/index.html</link>
-            <guid isPermaLink="false">b5b30a57-84de-4b1f-a1db-2e4229f5fb09</guid>
-            <pubDate>Fri, 08 Jan 2016 05:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
