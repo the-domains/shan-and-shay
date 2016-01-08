@@ -1,6 +1,6 @@
 name: 'Shan&Shay'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.4195747319608927
 title: 'Shan & Shay'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#013cb0'
     - '#87a8da'
     - '#f8e673'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.9375
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
